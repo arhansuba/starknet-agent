@@ -1,0 +1,13 @@
+{
+    "node_url": "https://starknet-sepolia.g.alchemy.com/v2/oAjH4iHh2XwfPKQGFeGDvSu9VRGwNCXs",
+    "private_key": "oAjH4iHh2XwfPKQGFeGDvSu9VRGwNCXs",
+    "account_address": "0x01342e21e7af743f4741565b5d137fc10dbe702a420bf2cc51a9a0e42a814526"
+   ,
+    "class_hash": "0x03fbf1e2140153d6fd0c69fd41c3cd7d8ee49ba06817ff2330b4f1ab61197a78",
+    "salt": 1234567890,
+    "agent_id": "1",
+    "contracts": {
+        "my_contract": "0x01342e21e7af743f4741565b5d137fc10dbe702a420bf2cc51a9a0e42a814526"
+    },
+    "chain": "Sepolia"
+}
